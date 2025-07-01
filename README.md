@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello
+
+My name is Juan Sebastian. I'm a Industrial Enginee / Systems & Computing Engineer (Computer Scientist anywhere else apart from Colombia). 
+
+My personal interests are Causal Inference, Applied Statistics, and Computer Science. In my profile you can find:
+
+- My personal Master's apps [calendar](https://roasted-direction-399.notion.site/22306ba7bb52807cbbaafd0a9d7a3805?v=22306ba7bb52801fb430000c541797de&source=copy_link)
+- My microbiolist-friendly Python package, *anbiopy* (first pinned repo)
+- My undergraduate IE theis (available somewhere, sometime)
 
 <!--
 **juanspardor/juanspardor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
